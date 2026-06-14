@@ -1,0 +1,36 @@
+{
+  "body_parts": [
+    {
+      "id": "ear",
+      "title": "Вухо",
+      "piercings": [
+        {
+          "id": "helix",
+          "title": "Хелікс",
+          "image": "",
+          "products": [
+            {
+              "title": "Клікер з фіанітами",
+              "image": "",
+              "material": "Титан",
+              "size": "1.2 x 8 мм",
+              "price": "1200 грн",
+              "description": "Підходить для хелікса після повного загоєння."
+            }
+          ]
+        },
+        {
+          "id": "industrial",
+          "title": "Індастріал",
+          "image": "",
+          "products": []
+        }
+      ]
+    },
+    {
+      "id": "eyebrow",
+      "title": "Брова",
+      "piercings": []
+    }
+  ]
+}
